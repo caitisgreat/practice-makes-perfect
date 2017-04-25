@@ -1,0 +1,6 @@
+D:\workspace\practice-makes-perfect\PracticeMakesPerfect.HashTable\bin\Debug\PracticeMakesPerfect.HashTable.exe.config
+D:\workspace\practice-makes-perfect\PracticeMakesPerfect.HashTable\bin\Debug\PracticeMakesPerfect.HashTable.exe
+D:\workspace\practice-makes-perfect\PracticeMakesPerfect.HashTable\bin\Debug\PracticeMakesPerfect.HashTable.pdb
+D:\workspace\practice-makes-perfect\PracticeMakesPerfect.HashTable\obj\Debug\PracticeMakesPerfect.HashTable.csprojResolveAssemblyReference.cache
+D:\workspace\practice-makes-perfect\PracticeMakesPerfect.HashTable\obj\Debug\PracticeMakesPerfect.HashTable.exe
+D:\workspace\practice-makes-perfect\PracticeMakesPerfect.HashTable\obj\Debug\PracticeMakesPerfect.HashTable.pdb
